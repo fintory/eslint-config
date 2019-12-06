@@ -1,6 +1,6 @@
 ## `@fintory/eslint-config` & `@fintory/eslint-config-base`
 
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
+[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/) [![npm version](https://badge.fury.io/js/%40fintory%2Feslint-config.svg)](https://badge.fury.io/js/%40fintory%2Feslint-config)
 
 ---
 
