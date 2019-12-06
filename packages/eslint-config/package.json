@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "ESLint configuration for typescript projects at @fintory",
   "keywords": [
     "typescript",
