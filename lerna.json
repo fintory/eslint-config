@@ -1,0 +1,15 @@
+{
+  "npmClient": "yarn",
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "*.md",
+        "__tests__/**/*"
+      ]
+    }
+  },
+  "version": "independent"
+}

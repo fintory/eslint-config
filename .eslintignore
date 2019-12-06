@@ -1,0 +1,2 @@
+packages/brand/**/*
+packages/*/node_modules/**/*

@@ -1,0 +1,56 @@
+{
+  "name": "@fintory/eslint-config",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.0.0",
+  "description": "ESLint configuration for typescript projects at @fintory",
+  "keywords": [
+    "typescript",
+    "eslint",
+    "config",
+    "preset",
+    "rules"
+  ],
+  "author": "Nick Schmidt <nick@kreativgebiet.com>",
+  "homepage": "http://fintory.com",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "files": [
+    ",.prettierrc.js",
+    ".eslintrc",
+    "lib"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "@fintory/eslint-config-base": "^0.3.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.1",
+    "@typescript-eslint/parser": "^2.6.1",
+    "eslint": "6.1.0",
+    "eslint-config-airbnb": "18.0.1",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^1.18.2",
+    "typescript": "^3.7.2"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.1",
+    "@typescript-eslint/parser": "^2.6.1",
+    "eslint": "6.1.0",
+    "eslint-config-airbnb": "18.0.1",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^1.18.2",
+    "typescript": "^3.7.2"
+  }
+}
