@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "lint": "eslint ./packages/*/lib/**/*.js",
-    "test": "lerna run test"
+    "bootstrap": "lerna bootstrap",
+    "lint": "eslint ./packages/*/lib/**/*.js"
   },
   "devDependencies": {
     "@types/chai": "^4.2.4",
