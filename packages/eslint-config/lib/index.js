@@ -2,6 +2,8 @@ module.exports = {
   root: true,
   extends: [
     '@quesk/eslint-config-base',
-    ...['./rules/import', './rules/typescript'].map(require.resolve),
+    './rules/import',
+    './rules/react',
+    './rules/typescript',
   ],
 }

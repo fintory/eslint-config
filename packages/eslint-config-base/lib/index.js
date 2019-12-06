@@ -1,17 +1,16 @@
 module.exports = {
   root: true,
   extends: [
-    'airbnb',
     'prettier',
-    ...[
-      './rules/import',
-      './rules/prettier',
-      './rules/react',
-      './rules/react-jsx',
-    ].map(require.resolve),
+    './rules/best-practices',
+    './rules/errors',
+    './rules/es6',
+    './rules/import',
+    './rules/node',
+    './rules/prettier',
+    './rules/react',
+    './rules/strict',
+    './rules/style',
+    './rules/variables',
   ],
-  rules: {
-    'no-unused-vars': 'off',
-    'consistent-return': 'off',
-  },
 }

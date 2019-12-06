@@ -23,13 +23,12 @@
   ],
   "scripts": {},
   "dependencies": {
-    "@fintory/eslint-config-base": "^0.3.4"
+    "@fintory/eslint-config-base": "^0.1.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.6.1",
     "@typescript-eslint/parser": "^2.6.1",
     "eslint": "6.1.0",
-    "eslint-config-airbnb": "18.0.1",
     "eslint-config-prettier": "^6.5.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
@@ -43,7 +42,6 @@
     "@typescript-eslint/eslint-plugin": "^2.6.1",
     "@typescript-eslint/parser": "^2.6.1",
     "eslint": "6.1.0",
-    "eslint-config-airbnb": "18.0.1",
     "eslint-config-prettier": "^6.5.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
