@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "lint": "eslint ./packages/*/lib/**/*.js"
+    "lint": "eslint ."
   },
   "devDependencies": {
     "@types/chai": "^4.2.4",
