@@ -3,8 +3,6 @@
 
   "compilerOptions": {
     "baseUrl": ".",
-    "paths": {
-      "@quesk/*": ["packages/*/lib"]
-    }
+    "paths": {},
   }
 }
