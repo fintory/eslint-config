@@ -7,6 +7,7 @@ module.exports = {
     './rules/import',
     './rules/node',
     './rules/react',
+    './rules/react-hooks',
     './rules/strict',
     './rules/style',
     './rules/variables',
