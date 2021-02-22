@@ -25,10 +25,10 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@fintory/eslint-config-base@^0.3.3":
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/@fintory/eslint-config-base/-/eslint-config-base-0.3.3.tgz#d34fea850c50336f847544aa28567fe8a080c9c7"
-  integrity sha512-4RVCiW5SLr6dFFl26XUAgXq3DY0uLX5K+YCU3QRasJFzcR6Psj0yCHD1Hp9Xna8V25WvtL6zRyaDaqLBgDncUQ==
+"@fintory/eslint-config-base@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@fintory/eslint-config-base/-/eslint-config-base-0.4.0.tgz#f507c56548973bc84bd169b85caeaceed448b755"
+  integrity sha512-sg3XnMoVewEV1blRoRR7Jc9dnXqIUbzNpzu37p9LLidx8P9vLGOG/GZZIqZKGPsfHaTl9zIzZWVpiBXLlU5wBg==
   dependencies:
     confusing-browser-globals "^1.0.9"
 
@@ -847,9 +847,9 @@ lodash.unescape@4.0.1:
   integrity sha1-vyJJiGzlFM2hEvrpIYzcBlIR/Jw=
 
 lodash@^4.17.12, lodash@^4.17.14:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.4.0:
   version "1.4.0"
