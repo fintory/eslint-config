@@ -25,10 +25,10 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@fintory/eslint-config-base@^0.3.3":
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/@fintory/eslint-config-base/-/eslint-config-base-0.3.3.tgz#d34fea850c50336f847544aa28567fe8a080c9c7"
-  integrity sha512-4RVCiW5SLr6dFFl26XUAgXq3DY0uLX5K+YCU3QRasJFzcR6Psj0yCHD1Hp9Xna8V25WvtL6zRyaDaqLBgDncUQ==
+"@fintory/eslint-config-base@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@fintory/eslint-config-base/-/eslint-config-base-0.4.0.tgz#f507c56548973bc84bd169b85caeaceed448b755"
+  integrity sha512-sg3XnMoVewEV1blRoRR7Jc9dnXqIUbzNpzu37p9LLidx8P9vLGOG/GZZIqZKGPsfHaTl9zIzZWVpiBXLlU5wBg==
   dependencies:
     confusing-browser-globals "^1.0.9"
 
@@ -1367,9 +1367,9 @@ type-check@~0.3.2:
     prelude-ls "~1.1.2"
 
 typescript@^3.7.2:
-  version "3.7.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.2.tgz#27e489b95fa5909445e9fef5ee48d81697ad18fb"
-  integrity sha512-ml7V7JfiN2Xwvcer+XAf2csGO1bPBdRbFCkYBczNZggrBZ9c7G3riSUeJmqEU5uOtXNPMhE3n+R4FA/3YOAWOQ==
+  version "3.9.10"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.10.tgz#70f3910ac7a51ed6bef79da7800690b19bf778b8"
+  integrity sha512-w6fIxVE/H1PkLKcCPsFqKE7Kv7QUwhU8qQY2MueZXWx5cPZdwFupLgKK3vntcK98BtNHZtAF4LA/yl2a7k8R6Q==
 
 uri-js@^4.2.2:
   version "4.2.2"
